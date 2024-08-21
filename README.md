@@ -44,11 +44,3 @@
 
 ## Collaboration
 - Collaborations are welcomed ❤️
-
-## Acknowledgments
- - I would like to thank [UNLEASHING TOMORROW'S {TECH}](https://www.youtube.com/@UNLEASHINGTOMORROWSTECH)
-   
-## Contact
- - LinkedIn: [Nebeyou Musie](https://www.linkedin.com/in/nebeyou-musie)
- - Gmail: nebeyoumusie@gmail.com
- - Telegram: [Nebeyou Musie](https://t.me/NebeyouMusie)
